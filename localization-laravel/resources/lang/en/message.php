@@ -1,0 +1,1 @@
+<?php return ["add" => "Add","sáD" => "ASDaD",];
